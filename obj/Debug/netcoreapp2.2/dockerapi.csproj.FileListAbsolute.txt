@@ -1,0 +1,14 @@
+/Users/valeralyalin/Projects/dockerapi/bin/Debug/netcoreapp2.2/dockerapi.deps.json
+/Users/valeralyalin/Projects/dockerapi/bin/Debug/netcoreapp2.2/dockerapi.runtimeconfig.json
+/Users/valeralyalin/Projects/dockerapi/bin/Debug/netcoreapp2.2/dockerapi.runtimeconfig.dev.json
+/Users/valeralyalin/Projects/dockerapi/bin/Debug/netcoreapp2.2/dockerapi.dll
+/Users/valeralyalin/Projects/dockerapi/bin/Debug/netcoreapp2.2/dockerapi.pdb
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.csprojAssemblyReference.cache
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.csproj.CoreCompileInputs.cache
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.RazorAssemblyInfo.cache
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.RazorAssemblyInfo.cs
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.AssemblyInfoInputs.cache
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.AssemblyInfo.cs
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.RazorTargetAssemblyInfo.cache
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.dll
+/Users/valeralyalin/Projects/dockerapi/obj/Debug/netcoreapp2.2/dockerapi.pdb
